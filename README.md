@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=marga-lensen&color=fbbf24)
-[[](url)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ]: #
+
 
 <h2 align="center">Hi 👋, I'm Marga</h2>
 <h3 align="center">frontend developer from the Netherlands</h3>
