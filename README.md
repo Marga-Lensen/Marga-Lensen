@@ -1,3 +1,5 @@
+https://komarev.com/ghpvc/?username=marga-lensen&color=fbbf24
+
 <h2 align="center">Hi 👋, I'm Marga</h2>
 <h3 align="center">frontend developer from the Netherlands</h3>
 
