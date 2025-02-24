@@ -2,7 +2,7 @@
 
 
 <h2 align="center">Hi 👋, I'm Marga</h2>
-<h3 align="center">frontend developer from the Netherlands</h3>
+<h3 align="center">creative fullstack developer from the Netherlands</h3>
 
 <h4 align="center" color= "blue">Connect with me per Email: Marga@LensenLab.de</h4>
 <p align="center">social media: 
@@ -15,10 +15,12 @@
 ##  what's up?
 - 🌱 I’m currently learning web development (fullstack; frontend and backend)
 
-- 👯 soon I will be ready to collaborate on projects concerning web tools for education
+- 👯 soon I will be ready to collaborate, e.g. on projects concerning web tools for education
 
 - ⚡ Fun fact: Actually, I am a chemist by training and I used to have my own labs: 
 https://LensenLab.de 😎
+
+- I am fluent in English and German and my mothertongue is Dutch.
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
