@@ -4,9 +4,9 @@
 <h2 align="center">Hi 👋, I'm Marga,</h2>
 <h3 align="center">creative fullstack developer from the Netherlands;</h3>
 <h3 align="center">Chemist by heart with a Talent for Teaching,</h3>
-<h3 align="center">Devotion for Details in Design,</h3>
+<h3 align="center">Devotion to Details in Design,</h3>
 <h3 align="center">Passion for Programming</h3>
-<h3 align="center">with my Obligation to Originality!</h3>
+<h3 align="center">and Obligation to Originality!</h3>
 
 <h4 align="center" color= "blue">Connect with me per Email: Marga.Lensen277@gmail.com</h4>
 <p align="center">social media: 
