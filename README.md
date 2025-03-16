@@ -1,10 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=marga-lensen&color=fbbf24)
 
 
-<h2 align="center">Hi 👋, I'm Marga</h2>
-<h3 align="center">creative fullstack developer from the Netherlands</h3>
+<h2 align="center">Hi 👋, I'm Marga,</h2>
+<h3 align="center">creative fullstack developer from the Netherlands;</h3>
+<h3 align="center">Chemist by heart with a Talent for Teaching,</h3>
+<h3 align="center">Devotion for Details in Design,</h3>
+<h3 align="center">Passion for Programming</h3>
+<h3 align="center">with my Obligation to Originality!</h3>
 
-<h4 align="center" color= "blue">Connect with me per Email: Marga@LensenLab.de</h4>
+<h4 align="center" color= "blue">Connect with me per Email: Marga.Lensen277@gmail.com</h4>
 <p align="center">social media: 
   <a href="https://twitter.com/lensen_marga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lensen_marga" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marga lensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marga lensen" height="30" width="40" /></a>
