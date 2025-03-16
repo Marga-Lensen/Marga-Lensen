@@ -9,10 +9,9 @@
 <h4 align="center">and Obligation to Originality!</h4>
 
 
-<h4 align="center" color= "blue">Connect with me per Email: Marga.Lensen277@gmail.com</h4>
-<p align="center">LinkedIn: 
+<p align="center" color= "blue">Connect with me per Email: Marga.Lensen277@gmail.com</p>
+<p align="center">Find me on LinkedIn: 
 <a href="https://linkedin.com/in/marga lensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marga lensen" height="30" width="40" /></a>
-</p>
 </p>
 
 
