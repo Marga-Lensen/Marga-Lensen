@@ -15,7 +15,7 @@
 </p>
 
 
-##  what's up?
+##  On my journey
 - 🌱 I’m currently learning web development (fullstack; frontend and backend)
 
 - 👯 soon I will be ready to collaborate, e.g. on projects concerning web tools for education
