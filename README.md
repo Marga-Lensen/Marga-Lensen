@@ -3,10 +3,10 @@
 
 <h2 >Hi, I'm Marga,</h2>
 <h3 align="center">Creative fullstack developer from the Netherlands;</h3>
-<h4 align="center" color="rebeccapurple">Chemist by heart with a Talent for Teaching,</h4>
+<h4 align="center" color="rebeccapurple">Chemist by 💜 with a Talent for Teaching,</h4>
 <h4 align="center">Devotion to Details in Design,</h4>
-<h3 align="center" color="skyblue">Passion for Programming</h3>
-<h4 align="center">and Obligation to Originality!</h4>
+<h3 align="center" color="skyblue">Passion for Programming 🤓</h3>
+<h4 align="center">and Obligation to Originality and Authenticity!</h4>
 
 - - -
 <p color="blue">Connect with me per Email: Marga.Lensen277@gmail.com</p>
