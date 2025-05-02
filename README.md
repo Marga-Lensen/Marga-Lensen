@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=marga-lensen&color=fbbf24)
 
 
-<h2 >Hi, I'm Marga,</h2>
+<h2 >I consider myself a DIGITAL ALCHEMIST </h2>
 <h3 align="center">Creative fullstack developer from the Netherlands;</h3>
 <h4 align="center" color="rebeccapurple">Chemist by 💜 with a Talent for Teaching,</h4>
 <h4 align="center">Devotion to Details in Design,</h4>
