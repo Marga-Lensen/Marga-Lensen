@@ -1,11 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=marga-lensen&color=fbbf24)
 
+<!--(url)![Eingefügtes Bild (2)](https://github.com/user-attachments/assets/dfb35438-ff0c-46b7-b25a-2e923285cd85)-->
 
-<h2 >I consider myself a DIGITAL ALCHEMIST </h2>
-<h3 align="center">Creative fullstack developer from the Netherlands;</h3>
-<h4 align="center" color="rebeccapurple">Chemist by 💜 with a Talent for Teaching,</h4>
+<!--![Bildschirmfoto vom 2025-01-22 21-58-42](https://github.com/user-attachments/assets/3770938f-670c-46aa-8842-ce0a28045662)-->
+![ML-Dev-Lab-transp](https://github.com/user-attachments/assets/bd6e8422-c778-4577-8455-6cb770b4583b)
+
+<h2 align="center">At ML_Dev-Lab, I am the DIGITAL ALCHEMIST 🪄</h2>
+<h3 align="center">I'm a Creative fullstack developer from the Netherlands;</h3>
+<h4 align="center" color="rebeccapurple">Chemist by 💜 with a </h4>
+<h4 align="center" >Talent for Teaching,</h4>
 <h4 align="center">Devotion to Details in Design,</h4>
 <h3 align="center" color="skyblue">Passion for Programming 🤓</h3>
+<h4 align="center" >Calling for CleanCode </h4>
 <h4 align="center">and Obligation to Originality and Authenticity!</h4>
 
 - - -
