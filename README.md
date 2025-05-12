@@ -1,56 +1,94 @@
+<a name="readme-top"></a>
+
 ![](https://komarev.com/ghpvc/?username=marga-lensen&color=fbbf24)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bd6e8422-c778-4577-8455-6cb770b4583b" alt="ML-Dev-Lab" width="300"/>
 </p>
 
-<h2 align="center" fontFamily="cursive">In my Dev Lab, I am the DIGITAL ALCHEMIST 🪄</h2>
+<h2 align="center">In my Dev Lab, I am the DIGITAL ALCHEMIST 🪄</h2>
 <h3 align="center">I'm a Creative fullstack developer from the Netherlands;</h3>
-<h4 align="center" color="rebeccapurple">Chemist by 💜 with a </h4>
-<h4 align="center" >Talent for Teaching,</h4>
+<h4 align="center">Chemist by 💜 with a Talent for Teaching,</h4>
 <h4 align="center">Devotion to Details in Design,</h4>
-<h3 align="center" color="skyblue">Passion for Programming 🤓</h3>
-<h4 align="center" >Calling for CleanCode </h4>
-<h4 align="center">and Obligation to Originality and Authenticity!</h4>
+<h3 align="center">Passion for Programming 🤓</h3>
+<h4 align="center">Calling for CleanCode and Obligation to Originality and Authenticity!</h4>
 
-- - -
+---
+
 ## 📚 Table of Contents
 
-- [🌟 About Me](#in-my-dev-lab-i-am-the-digital-alchemist-)
-- [📫 Contact](#contact-info)
+- [🌟 About Me](#about-me)
+- [📫 Contact](#contact)
 - [🛠️ Languages and Tools](#languages-and-tools)
-- [🧪 Project Portfolio](#project-portfolio)
-- [⤴️ Back to Top](#top)
+- [📂 Project Portfolio](#project-portfolio)
+- [⤴️ Back to Top](#readme-top)
 
-- - - 
-### Contact Info
-<p color="blue">Connect with me per Email: Marga.Lensen277@gmail.com</p>
-<p >Find me on LinkedIn: 
-<a href="https://linkedin.com/in/marga lensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marga lensen" height="30" width="40" /></a>
+---
+
+## 🌟 About Me
+
+- 🌱 I’m currently learning fullstack web development (frontend & backend)
+- 👯 Soon I will be ready to collaborate, especially on educational web tools
+- ⚗️ Fun fact: I’m a chemist by training and used to run my own lab: [LensenLab.de](https://LensenLab.de)
+- 🗣️ Languages: Dutch (native), English & German (fluent)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## 📫 Contact
+
+📧 Email: Marga.Lensen277@gmail.com  
+💼 LinkedIn:  
+<a href="https://linkedin.com/in/marga-lensen" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marga lensen" height="30" width="40" />
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
 </p>
-[⤴️ Back to Top](#table-of-contents)
-
-
-##  On my journey
-- 🌱 I’m currently learning web development (fullstack; frontend and backend)
-
-- 👯 soon I will be ready to collaborate, e.g. on projects concerning web tools for education
-
-- ⚡ Fun fact: Actually, I am a chemist by training and I used to have my own labs: 
-https://LensenLab.de 😎
-
-- I am fluent in English and German and my mothertongue is Dutch.
-
-
-<h3 align="left" id="languages-and-tools">Languages and Tools</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marga-lensen&show_icons=true&locale=en&layout=compact" alt="marga-lensen" /></p>
 
-[⤴️ Back to Top](#table-of-contents)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- - - 
+---
 
-📂 View my [Project Portfolio here](./portfolio.md) ✨
+## 📂 Project Portfolio
 
+✨ For a small impression of a selected number of my projects, please take a look at my portfolio-list: [portfolio.md](./portfolio.md)
+<!--✨ View the full portfolio here: [portfolio.md](./portfolio.md)-->
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
