@@ -21,6 +21,7 @@
 - [📫 Contact](#contact)
 - [🛠️ Languages and Tools](#languages-and-tools)
 - [📂 Project Portfolio](#project-portfolio)
+- [portfolio.md](./portfolio.md)
 - [⤴️ Back to Top](#readme-top)
 
 ---
