@@ -20,12 +20,13 @@
 - [🌟 About Me](#about-me)
 - [📫 Contact](#contact)
 - [🛠️ Languages and Tools](#languages-and-tools)
-- [📂 Project Portfolio](#project-portfolio)
-- [portfolio.md](./portfolio.md)
+- [📂 Project Portfolio](#portfolio)  
+  ↪ [See Portfolio markdown](./portfolio.md)
 - [⤴️ Back to Top](#readme-top)
 
 ---
 
+<a name="about-me"></a>
 ## 🌟 About Me
 
 - 🌱 I’m currently learning fullstack web development (frontend & backend)
@@ -37,6 +38,7 @@
 
 ---
 
+<a name="contact"></a>
 ## 📫 Contact
 
 📧 Email: Marga.Lensen277@gmail.com  
@@ -49,6 +51,7 @@
 
 ---
 
+<a name="languages-and-tools"></a>
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -87,9 +90,9 @@
 
 ---
 
+<a name="portfolio"></a>
 ## 📂 Project Portfolio
 
-✨ For a small impression of a selected number of my projects, please take a look at my portfolio-list: [portfolio.md](./portfolio.md)
-<!--✨ View the full portfolio here: [portfolio.md](./portfolio.md)-->
+✨ For a small impression of a selected number of my projects, please take a look at my portfolio-list: [Portfolio markdown](./portfolio.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
