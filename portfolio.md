@@ -1,91 +1,120 @@
-## 🧩 Full Stack Projects
-
-### 🏫 GymnasienVergleich
-
-A school comparison app with responsive design.
-**GitHub:** [Gymnasien-Feb2025](https://github.com/Marga-Lensen/Gymnasien-Feb2025)
-**Live:** [gymnasien-vergleich.vercel.app](https://gymnasien-vergleich.vercel.app) <a href="https://gymnasien-vergleich.vercel.app" target="_blank"> <img src="assets/image-10.png" width="400" alt="Gymnasien Screenshot" /> </a>
+<a id="top"></a>
+<p align="left">← <a href="./README.md">Back to main README</a></p>
 
 ---
 
-### 👤 UserApp
+## 🧩 **Full Stack Projects**  
+These projects include both frontend and backend logic, often involving authentication, routing, APIs, and databases.
 
-Authentication-ready user management app.
-**GitHub:** [auth-repo20-backend](https://github.com/Marga-Lensen/auth-repo20-backend)
-**Live:** *Deployment link coming soon* <a href="#" target="_blank"> <img src="assets/image-4.png" width="400" alt="UserApp Screenshot" /> </a>
+- **👤 UserApp**  
+  Auth system with MongoDB and protected routes.  
+  **GitHub:** [auth-repo20-backend](https://github.com/Marga-Lensen/auth-repo20-backend)  
+  **Live:** _Deployment link coming soon_  
+  <a href="assets/image-4.png" target="_blank">
+    <img src="assets/image-4.png" width="400" alt="UserApp Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
 
----
+- **🤝 Collaboration Project Backend**  
+  Backend for a team project with role-based access.  
+  **GitHub:** [backend-collab-project](https://github.com/Marga-Lensen/backend-collab-project)  
+  **Live:** _Deployment link coming soon_  
+  <a href="assets/image-3.png" target="_blank">
+    <img src="assets/image-3.png" width="400" alt="Collab Backend Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
 
-### 🤝 Collaboration Project Backend
+- **🛡️ Aunty Authy App**  
+  A simple JWT-based authentication app.  
+  **GitHub:** [Aunty-Authy-App](https://github.com/Marga-Lensen/Aunty-Authy-App)  
+  **Live:** _Deployment link coming soon_  
+  <a href="assets/image-1.png" target="_blank">
+    <img src="assets/image-1.png" width="400" alt="Aunty Authy App Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
 
-Collaborative backend app for shared development.
-**GitHub:** [backend-collab-project](https://github.com/Marga-Lensen/backend-collab-project)
-**Live:** *Deployment link coming soon* <a href="#" target="_blank"> <img src="assets/image-3.png" width="400" alt="Collaboration Backend Screenshot" /> </a>
-
----
-
-### 🛡️ Aunty Authy App
-
-Secure login & authentication tool.
-**GitHub:** [Aunty-Authy-App](https://github.com/Marga-Lensen/Aunty-Authy-App)
-**Live:** *Deployment link coming soon* <a href="#" target="_blank"> <img src="assets/image-1.png" width="400" alt="Aunty Authy Screenshot" /> </a>
-
----
-
-## 🎨 Frontend Projects
-
-### 📺 MeTube
-
-A stylish YouTube-inspired video browser.
-**GitHub:** [YouTubing-App](https://github.com/Marga-Lensen/YouTubing-App)
-**Live:** [you-tubing-app.vercel.app](https://you-tubing-app.vercel.app) <a href="https://you-tubing-app.vercel.app" target="_blank"> <img src="assets/image-2.png" width="400" alt="MeTube Screenshot" /> </a>
-
----
-
-### 🧾 BackendCheatSheet
-
-Frontend for helpful backend commands and notes.
-**GitHub:** [BackendCheatSheet](https://github.com/Marga-Lensen/BackendCheatSheet)
-**Live:** [backend-cheat-sheet.vercel.app](https://backend-cheat-sheet.vercel.app) <a href="https://backend-cheat-sheet.vercel.app" target="_blank"> <img src="assets/image.png" width="400" alt="Backend CheatSheet Screenshot" /> </a>
-
----
-
-### ❓ Questions-Quiz
-
-Simple multiple choice quiz using frontend logic.
-**GitHub:** [QuestionsQuiz](https://github.com/Marga-Lensen/QuestionsQuiz)
-**Live:** [questions-api-j59e.vercel.app](https://questions-api-j59e.vercel.app) <a href="https://questions-api-j59e.vercel.app" target="_blank"> <img src="assets/image-7.png" width="400" alt="Questions Quiz Screenshot" /> </a>
+- **📺 MeTube**  
+  A YouTube-style app with search, categories, playlists and a backend.  
+  **GitHub:** [YouTubing-App](https://github.com/Marga-Lensen/YouTubing-App)  
+  **Live:** [you-tubing-app.vercel.app](https://you-tubing-app.vercel.app)  
+  <a href="https://you-tubing-app.vercel.app" target="_blank">
+    <img src="assets/image-2.png" width="400" alt="MeTube App Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
-### ⭐ SWAPI
+## 🎨 **Frontend Projects**  
+These focus on layout, interactivity, and clean presentation — perfect for UX/UI emphasis.
 
-A stylish Star Wars data viewer using the SWAPI.
-**GitHub:** [SWAPI](https://github.com/Marga-Lensen/SWAPI)
-**Live:** [swapi-fawn-eight.vercel.app](https://swapi-fawn-eight.vercel.app) <a href="https://swapi-fawn-eight.vercel.app" target="_blank"> <img src="assets/image-9.png" width="400" alt="SWAPI Screenshot" /> </a>
+- **🏫 GymnasienVergleich**  
+  A school comparison app with responsive design.  
+  **GitHub:** [Gymnasien-Feb2025](https://github.com/Marga-Lensen/Gymnasien-Feb2025)  
+  **Live:** [gymnasien-vergleich.vercel.app](https://gymnasien-vergleich.vercel.app)  
+  <a href="https://gymnasien-vergleich.vercel.app" target="_blank">
+    <img src="assets/image-10.png" width="400" alt="Gymnasien Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
+
+- **❓ Questions Quiz**  
+  Fun trivia app using external APIs.  
+  **GitHub:** [QuestionsQuiz](https://github.com/Marga-Lensen/QuestionsQuiz)  
+  **Live:** [questions-api-j59e.vercel.app](https://questions-api-j59e.vercel.app)  
+  <a href="https://questions-api-j59e.vercel.app" target="_blank">
+    <img src="assets/image-7.png" width="400" alt="Questions Quiz Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
+
+- **🧘 Serenity Zen**  
+  A meditative, visual breathing app.  
+  **GitHub:** [Serenity-zen](https://github.com/Marga-Lensen/Serenity-zen)  
+  **Live:** [serenity-zen.vercel.app](https://serenity-zen.vercel.app)  
+  <a href="https://serenity-zen.vercel.app" target="_blank">
+    <img src="assets/image-8.png" width="400" alt="Serenity Zen Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
+
+- **🕊️ Serenity Prayer (Dutch)**  
+  A minimal webpage with the Dutch version of the Serenity Prayer.  
+  **GitHub:** [Serenity-prayer-Dutch](https://github.com/Marga-Lensen/Serenity-prayer-Dutch)  
+  **Live:** [serenity-prayer-dutch.vercel.app](https://serenity-prayer-dutch.vercel.app)  
+  <a href="https://serenity-prayer-dutch.vercel.app" target="_blank">
+    <img src="assets/image-12.png" width="400" alt="Serenity Prayer Dutch Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
-## 🧠 Educational or Experimental
+## 🧠 **Educational or Experimental**  
+Smaller scope or purpose-driven projects meant for practice, learning, or utilities.
 
-### 🌡️ Python\_TemperatureDaily
+- **🌡️ Python Temperature Daily**  
+  Plotting temperatures using Python and visualizing online.  
+  **GitHub:** [Python_TemperatureDaily](https://github.com/Marga-Lensen/Python_TemperatureDaily)  
+  **Live:** [python-temperature-daily.vercel.app](https://python-temperature-daily.vercel.app)  
+  <a href="https://python-temperature-daily.vercel.app" target="_blank">
+    <img src="assets/image-6.png" width="400" alt="Python Temperature Daily Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
 
-Visualizes daily temperature from Python-generated data.
-**GitHub:** [Python\_TemperatureDaily](https://github.com/Marga-Lensen/Python_TemperatureDaily)
-**Live:** [python-temperature-daily.vercel.app](https://python-temperature-daily.vercel.app) <a href="https://python-temperature-daily.vercel.app" target="_blank"> <img src="assets/image-6.png" width="400" alt="Temperature Daily Screenshot" /> </a>
+- **⭐ SWAPI Viewer**  
+  A React project exploring Star Wars API data.  
+  **GitHub:** [SWAPI](https://github.com/Marga-Lensen/SWAPI)  
+  **Live:** [swapi-fawn-eight.vercel.app](https://swapi-fawn-eight.vercel.app)  
+  <a href="https://swapi-fawn-eight.vercel.app" target="_blank">
+    <img src="assets/image-9.png" width="400" alt="SWAPI Viewer Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
+
+- **🧾 Backend Cheat Sheet**  
+  Quick reference guide for backend concepts.  
+  **GitHub:** [BackendCheatSheet](https://github.com/Marga-Lensen/BackendCheatSheet)  
+  **Live:** [backend-cheat-sheet.vercel.app](https://backend-cheat-sheet.vercel.app)  
+  <a href="https://backend-cheat-sheet.vercel.app" target="_blank">
+    <img src="assets/image.png" width="400" alt="Backend Cheat Sheet Screenshot"/>
+  </a>  
+  <p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
-### 🕊️ Serenity-prayer-Dutch
-
-A poetic rendering of the Serenity Prayer in Dutch.
-**GitHub:** [Serenity-prayer-Dutch](https://github.com/Marga-Lensen/Serenity-prayer-Dutch)
-**Live:** [serenity-prayer-dutch.vercel.app](https://serenity-prayer-dutch.vercel.app) <a href="https://serenity-prayer-dutch.vercel.app" target="_blank"> <img src="assets/image-12.png" width="400" alt="Serenity Prayer Dutch Screenshot" /> </a>
-
----
-
-### 🧘 Serenity-zen
-
-Meditative interface with calming visuals.
-**GitHub:** [Serenity-zen](https://github.com/Marga-Lensen/Serenity-zen)
-**Live:** [serenity-zen.vercel.app](https://serenity-zen.vercel.app) <a href="https://serenity-zen.vercel.app" target="_blank"> <img src="assets/image-8.png" width="400" alt="Serenity Zen Screenshot" /> </a>
+<p align="left">← <a href="./README.md">Back to main README</a></p>
