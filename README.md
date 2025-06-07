@@ -54,51 +54,111 @@
 <a name="languages-and-tools"></a>
 ## 🛠️ Languages and Tools
 
+
+### 👩‍💻 **1. Daily Dev Tools**
+
+These are the core tools I use regularly in development projects — from frontend to backend, across frameworks and databases.
+<strong>Most Used Tools:</strong> MERN stack, JavaScript, Sass, ChatGPT <br>
+
+#### ** 🥣 Core Stack**
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" title="HTML5" width="40" height="40"/>
   </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="" title="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" title="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> 
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="" title="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="" title="Express.js" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" title="React" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="" title="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="" title="Sass (SCSS)" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="" title="Git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="" title="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="" title="Linux" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="" title="Visual Studio Code" width="40" height="40"/>
   </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="" title="Postman" width="40"/>
 </p>
 
 
-<details >
-  <summary><strong>Most Used Tools:</strong> MERN stack, JavaScript, Sass, ChatGPT <br>
-    <h3>⤵️ Click to expand the full list of Tech Tools</h3>
+---
+
+### 🧠  **2. Currently Deepening Expertise**
+
+<details open>
+<summary><strong>⚗️ Exploring and Expanding</strong></summary>
+<br>
+<p>I am actively extending my backend engineering skills with additional languages, frameworks, and technologies — driven by a “learning by doing” approach.</p>
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://svelte.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/></a>
+</p>
+
+</details>
+
+
+---
+
+### 🔩 3. Supporting Tools: Task & Data Management
+
+<details open>
+<summary><strong>📊 Supporting Non-Dev Tools Used</strong></summary>
+<br>
+
+<p>These tools support my broader workflow — including collaboration, creative design, documentation, and structured data archiving.</p>
+
+<div align="left">
+<!-- GitHub Gists (uses GitHub icon as there's no separate Gist logo) -->
+<a href="https://gist.github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Gists" width="40" height="40"/></a>
+<!-- Trello -->
+<a href="https://trello.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/trello.svg" title="Trello" width="40" height="40"/></a>
+<!-- Excalidraw (unofficial but widely used) -->
+  <a href="https://excalidraw.com/" target="_blank"><img src="https://excalidraw.com/favicon.ico" title="Excalidraw" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" title="Canva" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" height="40"/></a>
+
+- **Task Management**: Trello, GitHub Projects
+- **Visuals & Docs**: Canva, Figma, Excalidraw
+- **Archiving & Publishing**: GitHub Gists, Stack Overflow, NPM (*planned*)
+</div>
+</details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+###  🧰 4. Full Toolbox
+<details>
+<summary><strong>⤵️ Click to expand the full list of Tech Tools</strong></summary>
+<br>
   <p>Most used tools include: React, Node.js, Express, MongoDB (MERN stack), JavaScript, SCSS (Sass), ChatGPT, GitHub, Postman, and Markdown.</p>
-</summary>
+
   <!-- Begin Table -->
   
   <table>
@@ -164,3 +224,6 @@
 ✨ For a small impression of a selected number of my projects, please take a look at my portfolio-list: [Portfolio markdown](./portfolio.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+---
