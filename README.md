@@ -11,7 +11,7 @@
 <h4 align="center">Chemist by 💜 with a Talent for Teaching,</h4>
 <h4 align="center">Devotion to Details in Design,</h4>
 <h3 align="center">Passion for Programming 🤓</h3>
-<h4 align="center">Calling for CleanCode and Obligation to Originality and Authenticity!</h4>
+<h4 align="center">My Signature is for CleanCode, Originality and Authenticity!</h4>
 
 ---
 
@@ -43,7 +43,7 @@
 
 📧 Email: Marga.Lensen277@gmail.com  
 💼 LinkedIn:  
-<a href="https://linkedin.com/in/marga-lensen" target="_blank">
+<a href="https://www.linkedin.com/in/marga-lensen-2a231911/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marga lensen" height="30" width="40" />
 </a>
 
