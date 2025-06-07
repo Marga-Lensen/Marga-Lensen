@@ -47,15 +47,6 @@ These projects include both frontend and backend logic, often involving authenti
 ## 🎨 **Frontend Projects**  
 These focus on layout, interactivity, and clean presentation — perfect for UX/UI emphasis.
 
-- **🏫 GymnasienVergleich**  
-  A school comparison app with responsive design.  
-  **GitHub:** [Gymnasien-Feb2025](https://github.com/Marga-Lensen/Gymnasien-Feb2025)  
-  **Live:** [gymnasien-vergleich.vercel.app](https://gymnasien-vergleich.vercel.app)  
-  <a href="https://gymnasien-vergleich.vercel.app" target="_blank">
-    <img src="assets/image-10.png" width="400" alt="Gymnasien Screenshot"/>
-  </a>  
-  <p align="right"><a href="#top">↑ Back to top</a></p>
-
 - **❓ Questions Quiz**  
   Web Dev Q & A in a nice and interactive way.  
   **GitHub:** [QuestionsQuiz](https://github.com/Marga-Lensen/QuestionsQuiz)  
