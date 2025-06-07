@@ -60,8 +60,8 @@
 These are the core tools I use regularly in development projects — from frontend to backend, across frameworks and databases.
 <strong>Most Used Tools:</strong> MERN stack, JavaScript, Sass, ChatGPT <br>
 
-#### ** 🥣 Core Stack**
-
+#### 🥣 Core Stack:
+<br>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" title="HTML5" width="40" height="40"/>
