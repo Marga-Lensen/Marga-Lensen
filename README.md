@@ -55,37 +55,48 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  </a>
 </p>
 
-<details open>
-  <summary><strong>Most Used Tools:</strong> MERN stack, JavaScript, Sass, ChatGPT
+
+<details >
+  <summary><strong>Most Used Tools:</strong> MERN stack, JavaScript, Sass, ChatGPT <br>
+    <h3>⤵️ Click to expand the full list of Tech Tools</h3>
   <p>Most used tools include: React, Node.js, Express, MongoDB (MERN stack), JavaScript, SCSS (Sass), ChatGPT, GitHub, Postman, and Markdown.</p>
 </summary>
   <!-- Begin Table -->
@@ -132,11 +143,11 @@
       <tr><td></td><td>Excalidraw</td><td><img src="https://raw.githubusercontent.com/excalidraw/excalidraw-logo/master/logo.svg" width="40"/></td><td>Proficient</td></tr>
       <tr><td></td><td>GIMP</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="40"/></td><td>Intermediate</td></tr>
       <tr><td><strong>AI Tools</strong></td><td>ChatGPT</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/></td><td>Proficient</td></tr>
-      <tr><td></td><td>DeepSeek</td><td><img src="https://example.com/deepseek-logo.svg" width="40"/></td><td>Proficient</td></tr>
-      <tr><td></td><td>Perplexity</td><td><img src="https://example.com/perplexity-logo.svg" width="40"/></td><td>Proficient</td></tr>
-      <tr><td></td><td>Claude</td><td><img src="https://example.com/claude-logo.svg" width="40"/></td><td>Not Used Much</td></tr>
-      <tr><td></td><td>Aria</td><td><img src="https://example.com/aria-logo.svg" width="40"/></td><td>Not Used Much</td></tr>
-      <tr><td></td><td>Leo</td><td><img src="https://example.com/leo-logo.svg" width="40"/></td><td>Not Used Much</td></tr>
+      <tr><td></td><td>DeepSeek</td><td><img src="https://example.com/deepseek-logo.svg" width="40" alt=""/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Perplexity</td><td><img src="https://example.com/perplexity-logo.svg" width="40" alt=""/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Claude</td><td><img src="https://example.com/claude-logo.svg" width="40" alt=""/></td><td>Not Used Much</td></tr>
+      <tr><td></td><td>Aria</td><td><img src="https://example.com/aria-logo.svg" width="40" alt=""/></td><td>Not Used Much</td></tr>
+      <tr><td></td><td>Leo</td><td><img src="https://example.com/leo-logo.svg" width="40" alt=""/></td><td>Not Used Much</td></tr>
     </tbody>
   </table>
 
