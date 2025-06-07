@@ -186,7 +186,7 @@ These are the core tools I use regularly in development projects — from fronte
       <tr><td></td><td>Python</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td><td>Intermediate</td></tr>
       <tr><td></td><td>bcryptjs</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td><td>Proficient</td></tr>
       <tr><td></td><td>JSON Web Token</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td><td>Proficient</td></tr>
-      <tr><td></td><td>Nodemailer</td><td><img src="https://www.vectorlogo.zone/logos/nodemailer/nodemailer-icon.svg" width="40"/></td><td>Intermediate</td></tr>
+      <tr><td></td><td>Nodemailer</td><td><img src="https://www.vectorlogo.zone/logos/nodemailer/nodemailer-icon.svg" width="40" alt=""/></td><td>Intermediate</td></tr>
       <tr><td><strong>Styling</strong></td><td>Sass (SCSS)</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></td><td>Proficient</td></tr>
       <tr><td></td><td>Tailwind CSS</td><td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td><td>Intermediate</td></tr>
       <tr><td></td><td>Bootstrap</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></td><td>Not used much</td></tr>
