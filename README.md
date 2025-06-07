@@ -84,7 +84,64 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marga-lensen&show_icons=true&locale=en&layout=compact" alt="marga-lensen" /></p>
+<details open>
+  <summary><strong>Most Used Tools:</strong> MERN stack, JavaScript, Sass, ChatGPT
+  <p>Most used tools include: React, Node.js, Express, MongoDB (MERN stack), JavaScript, SCSS (Sass), ChatGPT, GitHub, Postman, and Markdown.</p>
+</summary>
+  <!-- Begin Table -->
+  
+  <table>
+    <thead>
+      <tr>
+        <th><strong>Category</strong></th>
+        <th><strong>Technology</strong></th>
+        <th><strong>Logo</strong></th>
+        <th><strong>Proficiency Level</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Frontend</strong></td><td>React</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>React + Vite</td><td><img src="https://vitejs.dev/logo.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>React Native</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td><td>Learning</td></tr>
+      <tr><td></td><td>TypeScript</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Svelte</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="40"/></td><td>Learning</td></tr>
+      <tr><td></td><td>HTML</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>CSS</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>JavaScript</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td><strong>Backend</strong></td><td>Node.js</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Express</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>MongoDB</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>PostgreSQL</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></td><td>Learning</td></tr>
+      <tr><td></td><td>Python</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td><td>Intermediate</td></tr>
+      <tr><td></td><td>bcryptjs</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>JSON Web Token</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Nodemailer</td><td><img src="https://www.vectorlogo.zone/logos/nodemailer/nodemailer-icon.svg" width="40"/></td><td>Intermediate</td></tr>
+      <tr><td><strong>Styling</strong></td><td>Sass (SCSS)</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Tailwind CSS</td><td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td><td>Intermediate</td></tr>
+      <tr><td></td><td>Bootstrap</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></td><td>Not used much</td></tr>
+      <tr><td><strong>System & Editors</strong></td><td>Linux / Ubuntu</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>VSCode</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Markdown</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>JSON</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td><strong>Collaboration & Dev</strong></td><td>Git</td><td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>GitHub</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Postman</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>RapidAPI</td><td><img src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-icon.svg" width="40"/></td><td>Intermediate</td></tr>
+      <tr><td><strong>Graphics & Visuals</strong></td><td>Figma</td><td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td><td>Intermediate</td></tr>
+      <tr><td></td><td>Canva</td><td><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Excalidraw</td><td><img src="https://raw.githubusercontent.com/excalidraw/excalidraw-logo/master/logo.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>GIMP</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="40"/></td><td>Intermediate</td></tr>
+      <tr><td><strong>AI Tools</strong></td><td>ChatGPT</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>DeepSeek</td><td><img src="https://example.com/deepseek-logo.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Perplexity</td><td><img src="https://example.com/perplexity-logo.svg" width="40"/></td><td>Proficient</td></tr>
+      <tr><td></td><td>Claude</td><td><img src="https://example.com/claude-logo.svg" width="40"/></td><td>Not Used Much</td></tr>
+      <tr><td></td><td>Aria</td><td><img src="https://example.com/aria-logo.svg" width="40"/></td><td>Not Used Much</td></tr>
+      <tr><td></td><td>Leo</td><td><img src="https://example.com/leo-logo.svg" width="40"/></td><td>Not Used Much</td></tr>
+    </tbody>
+  </table>
+
+  <!-- End Table -->
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
