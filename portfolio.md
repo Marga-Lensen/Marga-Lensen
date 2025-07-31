@@ -69,7 +69,15 @@
 ## 🤝 **Collaboration Project Backend**
 - **GitHub:** [backend-collab-project](https://github.com/Marga-Lensen/backend-collab-project)  
 - **Live:** _Deployment link coming soon_  
-![Collab Backend Screenshot](assets/image-3.png)
+![Collab Backend Screenshot](./assets/image-3.png)
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+---
+## 🆙 **BewerbungsMgmt-fileUpload**
+- **GitHub:** [backend-collab-project](https://github.com/Marga-Lensen/BewerbungsMgmt-fileUpload?tab=readme-ov-file)  
+- **Live:** _Deployment link coming soon_  
+![Collab Backend Screenshot](./assets/(image-13.png))
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -103,3 +111,12 @@
 ---
 
 <p align="left">← <a href="./README.md">Back to main README</a></p>
+
+<footer align="center" style="margin-top: 20px">
+  <h4>Motto of a Digital Alchemist</h4>
+  <h5 style="font-style: bold; color: goldenrod">Turning Code into Gold 🪄</h5>
+  <img src="ML_Dev-Lab_transparent-n-cropped.png" 
+       alt="ML-Dev-Lab" 
+       width="150"
+       style="background: transparent; padding: 10px">
+</footer>
