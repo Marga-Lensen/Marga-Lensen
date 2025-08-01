@@ -17,7 +17,7 @@
 
 ## 🧩 **Full Stack Projects**
 
-These projects include both frontend and backend logic, often involving authentication, routing, APIs, and databases.
+These projects include both **frontend** & **backend** logic; involving authentication, routing, APIs, and databases.
 
 ### 🔐 **Authentication Backends**
 
@@ -141,14 +141,14 @@ These projects include both frontend and backend logic, often involving authenti
       <td>
         <strong>GitHub:</strong> <a href="https://github.com/Marga-Lensen/YouTubing-App">YouTubing-App</a><br>
         <strong>Live:</strong> <a href="https://you-tubing-app.vercel.app">you-tubing-app.vercel.app</a><br>
-        <strong>Backend:</strong> Not applicable<br>
-        <img src="assets/image-2.png" width="400" alt="MeTube Screenshot">
+<!--         <strong>Backend:</strong> Not applicable<br>
+ -->        <img src="assets/image-2.png" width="400" alt="MeTube Screenshot">
       </td>
       <td>
         <strong>GitHub:</strong> <a href="https://github.com/Marga-Lensen/Serenity-zen">Serenity-zen</a><br>
         <strong>Live:</strong> <a href="https://serenity-zen.vercel.app">serenity-zen.vercel.app</a><br>
-        <strong>Backend:</strong> Not applicable<br>
-        <img src="assets/image-8.png" width="400" alt="Serenity Zen Screenshot">
+<!--         <strong>Backend:</strong> Not applicable<br>
+ -->        <img src="assets/image-8.png" width="400" alt="Serenity Zen Screenshot">
       </td>
     </tr>
   </tbody>
@@ -161,7 +161,7 @@ These projects include both frontend and backend logic, often involving authenti
 
 <h3>✅ <strong>Data Management Tool</strong></h3>
 
-<details>
+<details open>
 <summary>ToDo Projects - two Examples</summary>
 <br>
 
@@ -314,12 +314,10 @@ These projects include both frontend and backend logic, often involving authenti
 
 ---
 
-
-<footer align="center" style="margin-top: 20px">
-  <h4>Motto of a Digital Alchemist</h4>
-  <h5 style="font-style: bold; color: goldenrod">Turning Code into Gold 🪄</h5>
-  <img src="ML_Dev-Lab_transparent-n-cropped.png" 
-       alt="ML-Dev-Lab" 
-       width="150"
-       style="background: transparent; padding: 10px">
+<footer>
+  <div align="center">
+    <h3><strong>Motto of a Digital Alchemist</strong></h3><!-- <br> -->
+    <h4 style="color: goldenrod; font-weight: bold;">Turning Code into Gold 🪄</h4><!-- <br> -->
+    <img src="ML_Dev-Lab_transparent-n-cropped.png" alt="ML-Dev-Lab" width="150" />
+  </div>
 </footer>
