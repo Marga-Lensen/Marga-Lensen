@@ -4,15 +4,87 @@
 
 ---
 
-## 🆕 New
+### 🆕 **cosYplay 🌸**
+#### Fullstack monolithic SPA with micro-apps
 
-### Fullstack monolithic SPA with micro-apps
+**GitHub:** [cosYspace-auth](https://github.com/Marga-Lensen/cosYspace-auth) | [cosYplay-frontend](https://github.com/Marga-Lensen/cosYplay-frontend) | [cosYplay-backend](https://github.com/Marga-Lensen/cosYplay-backend)
 
-<!-- (final project) prominent poll position full breadth
- <p><strong>GitHub:</strong> [GitHub-Link ergänzen]<br>
-<strong>Live:</strong> [Live-Link ergänzen]<br>
-<strong>Backend:</strong> Backend ready – waiting for deployment</p>
- -->
+**Live:** [cosYplay (vercel.app)](https://cos-yplay-frontend.vercel.app)  
+<!-- **Backend:** Backend ready – waiting for deployment   -->
+**Links:** [https://wonderl.ink/@cosyplay](https://wonderl.ink/@cosyplay)
+
+---
+
+
+<details open>
+<summary>2 Landing pages - public cosYhome & private cosYspace</summary>
+<br>
+
+<table>
+  <thead>
+    <tr>
+        <th> cos🍸️home</th>
+        <th>🌸 cosYspace 🌸</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img 
+          src="assets/cosYhome.png" 
+          width="400" 
+          alt="cosYhome Screenshot"
+        >
+      </td>
+      <td>
+        <img 
+          src="assets/cosYspace.png" 
+          width="400" 
+          alt="cosYspace Screenshot"
+        >
+        </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<details open>
+<summary>2 social apps - cosYchat & cosYpost</summary>
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th>💬 cosYchat</th>
+      <th>🌄 cosYpost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img 
+          src="assets/cosYchat.png" 
+          width="400" 
+          alt="cosYchat Screenshot"
+        >
+      </td>
+      <td>
+        <img 
+          src="assets/cosYpost.png" 
+          width="400" 
+          alt="cosYpost Screenshot"
+        >
+        </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- <strong>Links:</strong><br> -->
+<!-- <a href="https://wonderl.ink/@cosyplay">https://wonderl.ink/@cosyplay</a> -->
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+</details>
+
+---
 
 
 ## 🧩 **Full Stack Projects**
