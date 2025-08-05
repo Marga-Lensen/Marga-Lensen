@@ -3,6 +3,11 @@
 <p align="left">← <a href="./README.md">Back to main README</a></p>
 
 ---
+<img src="assets/Elegantes Home Office mit Goldakzenten.png" alt="ML Dev Lab Home Office">
+
+### 🪄 A glimpse into the Digital Alchemist's Lab; see what's brewing ✨
+
+---
 
 ### 🆕 **cosYplay 🌸**
 #### Fullstack monolithic SPA with micro-apps
@@ -29,25 +34,25 @@
   </thead>
   <tbody>
     <tr>
-      <td>
-        <img 
-          src="assets/cosYhome.png" 
-          width="400" 
-          alt="cosYhome Screenshot"
-        >
-      </td>
-      <td>
-        <img 
+<td>
+  <img 
+    src="assets/cosYhome.png" 
+    alt="cosYhome Screenshot"
+    style="width: 400px; height: auto; box-sizing: content-box; border: 4px solid indigo; border-radius: 8px;"
+  >
+</td>
+    <td>
+      <img 
           src="assets/cosYspace.png" 
-          width="400" 
-          alt="cosYspace Screenshot"
+            alt="cosYspace Screenshot"
+            style="width: 400px; height: auto; object-fit: cover; border-radius: 8px;"
         >
         </td>
     </tr>
   </tbody>
 </table>
 <hr>
-<details open>
+<details>
 <summary>2 social apps - cosYchat & cosYpost</summary>
 <br>
 
@@ -63,14 +68,14 @@
       <td>
         <img 
           src="assets/cosYchat.png" 
-          width="400" 
+          style="width: 400px; height: auto; object-fit: cover; border-radius: 8px;"          
           alt="cosYchat Screenshot"
         >
       </td>
       <td>
         <img 
           src="assets/cosYpost.png" 
-          width="400" 
+          style="width: 400px; height: auto; object-fit: cover; border-radius: 8px;"          
           alt="cosYpost Screenshot"
         >
         </td>
@@ -129,30 +134,30 @@ These projects include both **frontend** & **backend** logic; involving authenti
 
 ### 🗃️ **File Upload Systems**
 
-<details>
-<summary>📂 BewerbungsArchiv v4 + v3 – File Upload System (<em>Backend‑first</em>)</summary>
+<details open>
+<summary>📂 BewerbungsArchiv – File Upload System (<em>Backend‑first</em>)</summary>
 <br>
 
 <table>
   <thead>
     <tr>
-      <th>BewerbungsArchiv v4</th>
-      <th>BewerbungsArchiv v3</th>
+      <th>BewerbungsArchiv (elaborated version)</th>
+      <th>BewerbungsArchiv (basic version)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img src="v4.png" alt="cruiseship" width="400"><br>
-        <strong>GitHub:</strong> <a href="https://github.com/Marga-Lensen/BewerbungsMgmt-fileUpload?tab=readme-ov-file">BewerbungsMgmt-fileUpload</a><br>
-        <strong>Live:</strong> Deployment coming soon<br>
+        <strong>GitHub:</strong> <a href="https://github.com/Marga-Lensen/Bewerbungsarchiv">Bewerbungsarchiv</a><br>
+        <strong>Live:</strong> <a href="https://bewerbungsarchiv.vercel.app/upload">Bewerbungsarchiv.vercel.app</a><br>
         <strong>Backend:</strong> Backend ready – waiting for deployment
+        <img src="assets/BewerbArchiv-elab.png" alt="cruiseship" style="width: 400px; height: auto; object-fit: cover; border: 4px solid purple; border-radius: 8px;" ><br>
       </td>
       <td>
-        <img src="MVP-pirates.png" alt="pirates" width="400"><br>
-        <em>(Placeholder: Repo & Screenshot ergänzen)</em><br>
-        <strong>Live:</strong> Deployment coming soon<br>
-        <strong>Backend:</strong> Backend ready – waiting for deployment
+        <strong>GitHub:</strong> <a href="https://github.com/Marga-Lensen/BewerbungsMgmt-fileUpload?tab=readme-ov-file">BewerbungsArchiv fileUpload</a><br>
+        <!-- <strong>Live:</strong> Deployment coming soon<br>
+        <strong>Backend:</strong> Backend ready – waiting for deployment -->
+        <img src="assets/BewerbArchiv-basic.png" width="400" alt="Collab Backend Screenshot"><br>
       </td>
     </tr>
   </tbody>
@@ -161,37 +166,6 @@ These projects include both **frontend** & **backend** logic; involving authenti
 <p align="right"><a href="#top">↑ Back to top</a></p>
 </details>
 
-<details>
-<summary>📂 BewerbungsArchiv v2 + v1</summary>
-<br>
-
-<table>
-  <thead>
-    <tr>
-      <th>BewerbungsArchiv v2</th>
-      <th>BewerbungsArchiv v1</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="onepager-fileUpload.png" alt="collab-fileUpload" width="400"><br>
-        <em>(Placeholder: Repo & Screenshot ergänzen)</em><br>
-        <strong>Live:</strong> Deployment coming soon<br>
-        <strong>Backend:</strong> Backend ready – waiting for deployment
-      </td>
-      <td>
-        <img src="assets/image-3.png" width="400" alt="Collab Backend Screenshot"><br>
-        <strong>GitHub:</strong> <a href="https://github.com/Marga-Lensen/backend-collab-project">backend-collab-project</a><br>
-        <strong>Live:</strong> Deployment coming soon<br>
-        <strong>Backend:</strong> Backend ready – waiting for deployment
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<p align="right"><a href="#top">↑ Back to top</a></p>
-</details>
 
 ---
 
