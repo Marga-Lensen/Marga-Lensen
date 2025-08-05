@@ -9,17 +9,69 @@
 
 ---
 
-### 🆕 **cosYplay 🌸**
-#### Fullstack monolithic SPA with micro-apps
+<h3>🆕 <strong>cosYplay 🌸</strong></h3>
 
-**GitHub:** [cosYspace-auth](https://github.com/Marga-Lensen/cosYspace-auth) | [cosYplay-frontend](https://github.com/Marga-Lensen/cosYplay-frontend) | [cosYplay-backend](https://github.com/Marga-Lensen/cosYplay-backend)
+<h4>🌸 cosYplay – a Community-Platform for the cosplay scene</h4>
 
-**Live:** [cosYplay (vercel.app)](https://cos-yplay-frontend.vercel.app)  
-<!-- **Backend:** Backend ready – waiting for deployment   -->
-**Links:** [https://wonderl.ink/@cosyplay](https://wonderl.ink/@cosyplay)
+<p>✨ Featuring social media apps, such as <strong>cosYchat</strong> – a real-time chat, and <strong>cosYpost</strong> – a place to share photos, all embedded in the safe space <strong>cosYspace</strong> with secure authentication.</p>
+
 
 ---
 
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <a href="./assets/cosYplay-techStack.png" target="_blank" rel="noopener">
+        <img src="./assets/cosYplay-techStack.png" width="250" alt="cosYplay Tech Stack" />
+      </a>
+      <p style="font-size: 0.85em; margin-top: 5px;">🔍 Click the image to view full-size</p>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align: left; padding: 6px 12px;">🔗 Type</th>
+            <th style="text-align: left; padding: 6px 12px;">🌐 Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="padding: 6px 12px;">🧠 Auth</td>
+            <td style="padding: 6px 12px;">
+              <a href="https://github.com/Marga-Lensen/cosYspace-auth" target="_blank" rel="noopener">cosYspace-auth</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 6px 12px;">🎨 Frontend</td>
+            <td style="padding: 6px 12px;">
+              <a href="https://github.com/Marga-Lensen/cosYplay-frontend" target="_blank" rel="noopener">cosYplay-frontend</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 6px 12px;">🧱 Backend</td>
+            <td style="padding: 6px 12px;">
+              <a href="https://github.com/Marga-Lensen/cosYplay-backend" target="_blank" rel="noopener">cosYplay-backend</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 6px 12px;">🚀 Live</td>
+            <td style="padding: 6px 12px;">
+              <a href="https://cos-yplay-frontend.vercel.app" target="_blank" rel="noopener">cosYplay on Vercel</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 6px 12px;">🌸 Social</td>
+            <td style="padding: 6px 12px;">
+              <a href="https://wonderl.ink/@cosyplay" target="_blank" rel="noopener">wonderl.ink/@cosyplay</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
 
 <details open>
 <summary>2 Landing pages - public cosYhome & private cosYspace</summary>
