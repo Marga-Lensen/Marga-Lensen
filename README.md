@@ -9,7 +9,7 @@
 <h1 align="center">In my Dev Lab, I am the DIGITAL ALCHEMIST ⚗️</h1>
 <h2 align="center">🪄 Turning Code into Gold ✨</h2>
 <h3 align="center">I'm a Creative fullstack developer from the Netherlands;</h3>
-<h4 align="center">Chemist by 💜 with a Talent for Teaching,</h4>
+<h4 align="center">Chemist by 💜 with a Mindset for Mentoring,</h4>
 <h4 align="center">Devotion to Details in Design,</h4>
 <h3 align="center">Passion for Programming 🤓</h3>
 <h4 align="center">My Signature is for CleanCode, Originality and Authenticity!</h4>
