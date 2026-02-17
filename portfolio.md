@@ -342,7 +342,7 @@ These projects include both **frontend** & **backend** logic; involving authenti
 <h2>🧪 <strong>Educational / Experimental</strong></h2>
 
 <h3>🧠 Marga's Tutoring</h3>
-<p><em>Besonderes Projekt für die ganze Breite – placeholder, ergänzen.</em></p>
+<p><em>Besonderes Projekt für die Web Dev Basics; SPA, HTML, CSS.</em></p>
 
 ---
 
