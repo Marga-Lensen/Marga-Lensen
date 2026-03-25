@@ -275,7 +275,7 @@ These projects include both **frontend** & **backend** logic; involving authenti
       <td><!-- <em>todoABCDtada placeholder</em> -->
       <img src="assets/todo-ABCD-taDa2025-03-22 16-16-54.png" width="400" alt="ToDo-ABCD-TaDaaaa!"></td>
       <td><!-- <em>todo schlicht placeholder</em> -->
-      <img src="assets/ToDo-react.png" width="400" alt="ToDo-react"></td>
+      <img src="assets/to-do-list_react.png" width="400" alt="ToDo-react"></td>
     </tr>
   </tbody>
 </table>
