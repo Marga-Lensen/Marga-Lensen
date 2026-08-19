@@ -6,13 +6,13 @@
   <img src="https://github.com/user-attachments/assets/bd6e8422-c778-4577-8455-6cb770b4583b" alt="ML-Dev-Lab" width="300"/>
 </p>
 
-<h1 align="center">In my Dev Lab, I am the DIGITAL ALCHEMIST ⚗️</h1>
+<h1 align="center">In my Dev Lab, I am the digital AIchemist ⚗️</h1>
 <h2 align="center">🪄 Turning Code into Gold ✨</h2>
-<h3 align="center">I'm a Creative fullstack developer from the Netherlands;</h3>
+<h3 align="center">I'm a Creative full stack developer from the Netherlands;</h3>
 <h4 align="center">Chemist by 💜 with a Mindset for Mentoring,</h4>
 <h4 align="center">Devotion to Details in Design,</h4>
 <h3 align="center">Passion for Programming 🤓</h3>
-<h4 align="center">My Signature is for CleanCode, Originality and Authenticity!</h4>
+<h4 align="center">My Signature is for Clean Code, Originality and Authenticity!</h4>
 
 ---
 
