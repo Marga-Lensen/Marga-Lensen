@@ -30,8 +30,8 @@
 <a name="about-me"></a>
 ## 🌟 About Me
 
-- 🌱 I’m currently learning fullstack web development (frontend & backend)
-- 👯 Soon I will be ready to collaborate, especially on educational web tools
+- 🌱 I’m currently in my digital career as a full stack web developer (frontend & backend)
+- 👯 I love to teach and develop educational web tools and e-learning material
 - ⚗️ Fun fact: I’m a chemist by training and used to run my own lab: [LensenLab.de](https://LensenLab.de)
 - 🗣️ Languages: Dutch (native), English & German (fluent)
 
@@ -59,7 +59,7 @@
 ### 👩‍💻 **1. Daily Dev Tools**
 
 These are the core tools I use regularly in development projects — from frontend to backend, across frameworks and databases.
-<strong>Most Used Tools:</strong> MERN stack, JavaScript, Sass, ChatGPT <br>
+<strong>Most Used Tools:</strong> MERN stack, JavaScript, Sass, AI tools <br>
 
 #### 🥣 Core Stack:
 <br>
